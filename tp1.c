@@ -40,4 +40,4 @@ int main() {
     printf("The largest number is: %d\n", maxValue);
     printf("The average is: %.2f\n", avg);
 
-    return 0;
+    return 0;  }
